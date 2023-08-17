@@ -2,7 +2,7 @@ import paramiko
 
 hostname = "192.168.1.150"
 username = "coletivo"
-password = "colR22@Acx04D33"
+password = "teste123"
 port = 6422
 
 
